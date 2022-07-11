@@ -1,8 +1,10 @@
 
+
 using Microsoft.AspNetCore.Mvc;
 using Catalog.API.Application.Contracts.Interface;
 using Catalog.API.Application.Models.ProductDTOs;
 using Catalog.API.Domain;
+
 
 namespace Catalog.API.Controllers
 {
@@ -18,6 +20,7 @@ namespace Catalog.API.Controllers
         [HttpGet]
         public async Task<ActionResult<List<ProductSummeryDTO>>> GetProducts()
         {
+
             var result = await _productService.GetAllProductsAsync();
             return Ok(result);
         }
