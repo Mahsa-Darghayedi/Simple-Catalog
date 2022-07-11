@@ -43,6 +43,7 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.6, )"
@@ -51,6 +52,8 @@
               "target": "Package",
               "version": "[6.0.6, )"
             },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

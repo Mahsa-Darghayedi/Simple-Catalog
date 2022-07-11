@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/YtrouMgAG16apWDb6gJZzZYx3ynTzbptt4Bv/ICUnFtAlJBNsBmMxZeOtmCevasjOtH0s0HX9aSwdgTUOJsLQ==",
   "success": true,
   "projectFilePath": "E:\\.Net Projct\\Catalog Website\\Catalog.API\\Catalog.API.csproj",
@@ -51,6 +52,18 @@
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+=======
+  "dgSpecHash": "bDwuiIIFDiD50crnK5jBbEG+poA236Kmla1VaUCLTLnNik1iY/G8Nz2BoiOXttZAuhT7nFTb5+PfjZn+dcub+w==",
+  "success": true,
+  "projectFilePath": "E:\\.Net Projct\\Catalog Website\\Catalog.API\\Catalog.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
   ],
   "logs": []
 }

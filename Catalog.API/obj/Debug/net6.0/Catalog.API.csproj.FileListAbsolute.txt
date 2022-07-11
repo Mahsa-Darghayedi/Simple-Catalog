@@ -25,6 +25,7 @@ E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
+<<<<<<< HEAD
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -58,3 +59,5 @@ E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\net
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c

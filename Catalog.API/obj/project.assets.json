@@ -2,6 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
+<<<<<<< HEAD
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.6": {
         "type": "package",
         "dependencies": {
@@ -143,6 +144,8 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
         }
       },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -154,6 +157,7 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -357,6 +361,8 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
@@ -366,6 +372,7 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Win32.Registry/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -407,6 +414,8 @@
           }
         }
       },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
       "Swashbuckle.AspNetCore/6.2.3": {
         "type": "package",
         "dependencies": {
@@ -452,6 +461,7 @@
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "runtime": {
+<<<<<<< HEAD
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "frameworkReferences": [
@@ -683,10 +693,18 @@
             "rid": "win"
           }
         }
+=======
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
       }
     }
   },
   "libraries": {
+<<<<<<< HEAD
     "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.6": {
       "sha512": "kXznF3FSjukLhrvDSCSU2rZCmgn2eJtFkKKUFWB57eQu3zatLqCJAKWQwjmtumMv6Uke0YBBuY7ecqF3T2YpbQ==",
       "type": "package",
@@ -928,6 +946,8 @@
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "sha512": "LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
       "type": "package",
@@ -955,6 +975,7 @@
         "tools/netcoreapp2.1/GetDocument.Insider.runtimeconfig.json"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
       "sha512": "bcz5sSFJbganH0+YrfvIjJDIcKNW7TL07C4d1eTmXy/wOt52iz4LVogJb6pazs7W0+74j0YpXFErvp++Aq5Bsw==",
       "type": "package",
@@ -1331,6 +1352,8 @@
         "version.txt"
       ]
     },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
     "Microsoft.OpenApi/1.2.3": {
       "sha512": "Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "type": "package",
@@ -1348,6 +1371,7 @@
         "microsoft.openapi.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Win32.Registry/4.7.0": {
       "sha512": "KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
       "type": "package",
@@ -1424,6 +1448,8 @@
         "version.txt"
       ]
     },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
     "Swashbuckle.AspNetCore/6.2.3": {
       "sha512": "cnzQDn0Le+hInsw2SYwlOhOCPXpYi/szcvnyqZJ12v+QyrLBwAmWXBg6RIyHB18s/mLeywC+Rg2O9ndz0IUNYQ==",
       "type": "package",
@@ -1504,6 +1530,7 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+<<<<<<< HEAD
     },
     "System.Collections.Immutable/6.0.0": {
       "sha512": "l4zZJ1WU2hqpQQHXz1rvC3etVZN+2DLmQMO79FhOTZHMn8tDRr+WU287sbomD0BETlmKDn0ygUgVy9k5xkkJdA==",
@@ -1988,12 +2015,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+<<<<<<< HEAD
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.6",
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -2040,6 +2072,7 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+<<<<<<< HEAD
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
             "version": "[6.0.6, )"
@@ -2048,6 +2081,8 @@
             "target": "Package",
             "version": "[6.0.6, )"
           },
+=======
+>>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.2.3, )"
