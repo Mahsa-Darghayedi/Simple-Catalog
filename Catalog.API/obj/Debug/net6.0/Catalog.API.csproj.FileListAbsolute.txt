@@ -6,26 +6,8 @@ E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Catalog.API.runtimec
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\ref\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Catalog.API.pdb
-E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfoInputs.cache
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfo.cs
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.CoreCompileInputs.cache
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\staticwebassets.build.json
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\staticwebassets.development.json
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\scopedcss\bundle\Catalog.API.styles.css
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.CopyComplete
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
-<<<<<<< HEAD
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -39,7 +21,11 @@ E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.IdentityMo
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Drawing.Common.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -59,5 +45,18 @@ E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\net
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-=======
->>>>>>> 4773cabe832cf7c9c5f2bfc0fb0d45c849f3c28c
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfoInputs.cache
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfo.cs
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.CoreCompileInputs.cache
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\scopedcss\bundle\Catalog.API.styles.css
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.CopyComplete
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache

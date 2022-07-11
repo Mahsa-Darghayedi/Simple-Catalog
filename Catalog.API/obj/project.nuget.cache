@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/YtrouMgAG16apWDb6gJZzZYx3ynTzbptt4Bv/ICUnFtAlJBNsBmMxZeOtmCevasjOtH0s0HX9aSwdgTUOJsLQ==",
+  "dgSpecHash": "oP1yq5SZMbZXaTya39LBiSs37OdRUVYCPbdKA6uOysRqnhzHTzpRQvPYtVYAx5F/ct2j5TeKFu69wWsezs2fBQ==",
   "success": true,
   "projectFilePath": "E:\\.Net Projct\\Catalog Website\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.6\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.6.nupkg.sha512",
-    "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
@@ -52,12 +54,5 @@
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\.Net Projct\\Catalog Website\\Catalog.API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
