@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac1592ea-cf48-48ca-a85e-e130be60270e": {
+      "ProjectGuid": "ac1592ea-cf48-48ca-a85e-e130be60270e",
+      "DisplayName": "Catalog.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
