@@ -1,10 +1,9 @@
 
 
 using Microsoft.AspNetCore.Mvc;
-using Catalog.API.Application.Contracts.Interface;
 using Catalog.API.Application.Models.ProductDTOs;
 using Catalog.API.Domain;
-
+using Catalog.API.Application.Contracts;
 
 namespace Catalog.API.Controllers
 {
@@ -18,6 +17,7 @@ namespace Catalog.API.Controllers
             _productService = productService;
         }
         [HttpGet]
+        [Route("GetProducts")]
         public async Task<ActionResult<List<ProductSummeryDTO>>> GetProducts()
         {
 
@@ -26,10 +26,18 @@ namespace Catalog.API.Controllers
         }
 
         [HttpPost]
+        [Route("AddProduct")]
         public async Task<ActionResult<bool>> AddProduct([FromBody] ProductCreationDTO product)
         {
             await _productService.AddProductAsync(product);
             return Ok(product);
+        }
+
+        [HttpGet]
+        [Route("GetProductByID")]
+        public async Task<ActionResult<ProductSummeryDTO>> GetProductByID(int id)
+        {
+            return await _productService.GetProductByIdAsync(id);
         }
 
     }

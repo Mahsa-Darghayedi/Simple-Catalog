@@ -2,7 +2,7 @@ using Catalog.API.Application.Configs;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddServiceConfig();
+builder.Services.AddServiceConfig(builder.Configuration.GetConnectionString("CatalogDB"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

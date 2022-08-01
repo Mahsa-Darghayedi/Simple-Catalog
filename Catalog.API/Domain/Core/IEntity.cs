@@ -1,7 +1,7 @@
 ﻿namespace Catalog.API.Domain.Core
 {
-    public interface IEntity<Key>
+    public interface IEntity
     {
-        Key Id { get; set; }
+        int Id { get; set; }
     }
 }

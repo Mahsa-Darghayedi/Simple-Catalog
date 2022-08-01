@@ -1,8 +1,8 @@
 ﻿namespace Catalog.API.Domain.Core
 {
-    public class Entity<Key> : IEntity<Key>
+    public class Entity : IEntity
     {
-        public Key Id { get; set; }
+        public int Id { get; set; }
      
     }
 }

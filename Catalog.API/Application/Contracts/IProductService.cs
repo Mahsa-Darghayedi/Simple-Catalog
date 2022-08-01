@@ -1,7 +1,8 @@
 ﻿using Catalog.API.Application.Models.ProductDTOs;
 using Catalog.API.Domain;
+using Microsoft.AspNetCore.Mvc;
 
-namespace Catalog.API.Application.Contracts.Interface
+namespace Catalog.API.Application.Contracts
 {
     public interface IProductService
     {
@@ -9,5 +10,6 @@ namespace Catalog.API.Application.Contracts.Interface
         Task<List<ProductSummeryDTO>> GetAllProductsAsync();
 
         Task<bool> AddProductAsync(ProductCreationDTO product);
+        Task<ActionResult<ProductSummeryDTO>> GetProductByIdAsync(int id);
     }
 }

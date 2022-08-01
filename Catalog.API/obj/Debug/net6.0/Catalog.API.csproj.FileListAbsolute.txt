@@ -59,3 +59,6 @@ E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Humanizer.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
