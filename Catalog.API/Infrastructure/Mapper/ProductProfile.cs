@@ -10,6 +10,7 @@ namespace Catalog.API.Infrastructure.Mapper
         {
             CreateMap<Product, ProductSummeryDTO>();
             CreateMap<ProductCreationDTO, Product>();
+            CreateMap<Product, ProductDetailDTO>();
         }
     }
 }

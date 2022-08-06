@@ -11,7 +11,9 @@
           "AutoMapper": "11.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.6",
+          "Microsoft.EntityFrameworkCore": "6.0.7",
           "Microsoft.EntityFrameworkCore.Design": "6.0.7",
+          "Microsoft.EntityFrameworkCore.DynamicLinq": "6.2.19",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.6",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.7",
           "Swashbuckle.AspNetCore": "6.2.3"
@@ -156,6 +158,18 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
             "assemblyVersion": "6.0.7.0",
             "fileVersion": "6.0.722.31501"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.DynamicLinq/6.2.19": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.7",
+          "System.Linq.Dynamic.Core": "1.2.19"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.DynamicLinq.dll": {
+            "assemblyVersion": "6.2.19.0",
+            "fileVersion": "6.2.19.0"
           }
         }
       },
@@ -438,6 +452,14 @@
           }
         }
       },
+      "System.Linq.Dynamic.Core/1.2.19": {
+        "runtime": {
+          "lib/net6.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.2.19.0",
+            "fileVersion": "1.2.19.0"
+          }
+        }
+      },
       "System.Runtime.Caching/4.7.0": {
         "dependencies": {
           "System.Configuration.ConfigurationManager": "4.7.0"
@@ -602,6 +624,13 @@
       "sha512": "sha512-chshSATT8ugtqCiYryx5qDefK99o2ojyMCOIlQgetDhe83czL9Sp7s1a5MkvUyN5D4F0Vv8gXU77Wv+cplUJuw==",
       "path": "microsoft.entityframeworkcore.design/6.0.7",
       "hashPath": "microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.DynamicLinq/6.2.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yyA5BOdyQCFg7gs1CqczFUnFy3OHXslrhdRA/SHz1PGdxebDx1ejBEME8bIU+0XCnuE69mG0GNfeuoQWYYDQDA==",
+      "path": "microsoft.entityframeworkcore.dynamiclinq/6.2.19",
+      "hashPath": "microsoft.entityframeworkcore.dynamiclinq.6.2.19.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/6.0.7": {
       "type": "package",
@@ -826,6 +855,13 @@
       "sha512": "sha512-5tBCjAub2Bhd5qmcd0WhR5s354e4oLYa//kOWrkX+6/7ZbDDJjMTfwLSOiZ/MMpWdE4DWPLOfTLOq/juj9CKzA==",
       "path": "system.identitymodel.tokens.jwt/6.8.0",
       "hashPath": "system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.2.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R9Iv6uDZQLDecHhBANawccBzm5H6lHTKL65zPfulHBBpeT7NktzLcxA0MfffWsTjCzSo106Vy5QtkwXnlfekJQ==",
+      "path": "system.linq.dynamic.core/1.2.19",
+      "hashPath": "system.linq.dynamic.core.1.2.19.nupkg.sha512"
     },
     "System.Runtime.Caching/4.7.0": {
       "type": "package",

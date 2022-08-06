@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Gc0EI2Ialojo4If+6pxWvuYn4RYcvPv+XTEnLpEWqVEf+jCYep8l1ob9AYW52rKJMDPXI5snXAvhOxMYnClDFw==",
+  "dgSpecHash": "MO5u08qCBvF2PHhTVPjvceQVMgzrxFXeHl7sqE2R+Nn0uF1o+/6j5TE9vZ10eQOccUS6MFQvCkBSGf7HMDzx+g==",
   "success": true,
   "projectFilePath": "E:\\.Net Projct\\Catalog Website\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.7\\microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore.dynamiclinq\\6.2.19\\microsoft.entityframeworkcore.dynamiclinq.6.2.19.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.7\\microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.6\\microsoft.entityframeworkcore.sqlserver.6.0.6.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.7\\microsoft.entityframeworkcore.tools.6.0.7.nupkg.sha512",
@@ -47,6 +48,7 @@
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.linq.dynamic.core\\1.2.19\\system.linq.dynamic.core.1.2.19.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\m.darghayedi\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

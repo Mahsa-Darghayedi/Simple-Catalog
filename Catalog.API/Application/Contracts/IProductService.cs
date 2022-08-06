@@ -11,5 +11,11 @@ namespace Catalog.API.Application.Contracts
 
         Task<bool> AddProductAsync(ProductCreationDTO product);
         Task<ActionResult<ProductSummeryDTO>> GetProductByIdAsync(int id);
+        Task<bool> UpdateProductAsync(int id,ProductCreationDTO product);
+
+        Task DeleteProductAsync(int id);
+
+        Task<List<ProductDetailDTO>> SearchProduct(SearchProductDTO searchDTO);
+
     }
 }

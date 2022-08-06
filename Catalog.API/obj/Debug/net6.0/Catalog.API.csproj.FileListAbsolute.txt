@@ -14,10 +14,13 @@ E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\ref\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Catalog.API.pdb
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Humanizer.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -35,6 +38,7 @@ E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCo
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Drawing.Common.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Runtime.Caching.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\System.Security.Permissions.dll
@@ -51,6 +55,7 @@ E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\net
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\staticwebassets.build.json
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\staticwebassets.development.json
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\scopedcss\bundle\Catalog.API.styles.css
@@ -59,6 +64,3 @@ E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
 E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
-E:\.Net Projct\Catalog Website\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache
-E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Humanizer.dll
-E:\.Net Projct\Catalog Website\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

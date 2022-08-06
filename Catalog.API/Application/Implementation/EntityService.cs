@@ -28,13 +28,27 @@ namespace Catalog.API.Application.Implementation
             }
         }
 
+        public async Task DeleteAsync(T entity)
+        {
+            ArgumentNullException.ThrowIfNull(entity, nameof(entity));
+            await _repository.DeleteAsync(entity);
+            await _unitOfWork.CommitAsync();
+        }
+
         public void Dispose()
         {
-            if(_unitOfWork != null)
+            if (_unitOfWork != null)
             {
-               _unitOfWork.Dispose();   
-                _repository.Dispose();  
+                _unitOfWork.Dispose();
+                _repository.Dispose();
             }
+        }
+
+        public async Task UpdateAsync(T entity)
+        {
+            ArgumentNullException.ThrowIfNull(entity, nameof(entity));
+            _repository.Update(entity);
+            await _unitOfWork.CommitAsync();
         }
     }
 }
